@@ -1,0 +1,49 @@
+Noise_Type,Noise_Rate,Model,Relative_Drop
+asymmetric,0.0,Decision Tree,0.0
+asymmetric,0.1,Decision Tree,0.008319524129186469
+asymmetric,0.2,Decision Tree,0.014218792087918479
+asymmetric,0.3,Decision Tree,0.02218510433033881
+asymmetric,0.0,KNN,0.0
+asymmetric,0.1,KNN,0.00320998443381321
+asymmetric,0.2,KNN,0.00903747402244135
+asymmetric,0.3,KNN,0.019828111900410356
+asymmetric,0.0,LightGBM,0.0
+asymmetric,0.1,LightGBM,0.0031151159060083347
+asymmetric,0.2,LightGBM,0.01128914438595887
+asymmetric,0.3,LightGBM,0.0265832935941685
+asymmetric,0.0,Logistic Regression,0.0
+asymmetric,0.1,Logistic Regression,0.007545384486011632
+asymmetric,0.2,Logistic Regression,0.024001486120201247
+asymmetric,0.3,Logistic Regression,0.03867047947871084
+asymmetric,0.0,Random Forest,0.0
+asymmetric,0.1,Random Forest,0.0030109232082905727
+asymmetric,0.2,Random Forest,0.008865303954863207
+asymmetric,0.3,Random Forest,0.02394337854608003
+asymmetric,0.0,SVM,0.0
+asymmetric,0.1,SVM,0.0020004565257809013
+asymmetric,0.2,SVM,0.018148455397052083
+asymmetric,0.3,SVM,0.05456597294316567
+symmetric,0.0,Decision Tree,0.0
+symmetric,0.1,Decision Tree,0.0924753455213853
+symmetric,0.2,Decision Tree,0.1753432485825026
+symmetric,0.3,Decision Tree,0.24236711551484938
+symmetric,0.0,KNN,0.0
+symmetric,0.1,KNN,0.019062656173862522
+symmetric,0.2,KNN,0.06669453729908693
+symmetric,0.3,KNN,0.14805668414248407
+symmetric,0.0,LightGBM,0.0
+symmetric,0.1,LightGBM,0.0030448224619043793
+symmetric,0.2,LightGBM,0.0076119662439842846
+symmetric,0.3,LightGBM,0.018830807595356353
+symmetric,0.0,Logistic Regression,0.0
+symmetric,0.1,Logistic Regression,0.003450036960407488
+symmetric,0.2,Logistic Regression,0.011740128026152454
+symmetric,0.3,Logistic Regression,0.0166793291414651
+symmetric,0.0,Random Forest,0.0
+symmetric,0.1,Random Forest,0.01258629108586768
+symmetric,0.2,Random Forest,0.035089314156580176
+symmetric,0.3,Random Forest,0.08531578923954779
+symmetric,0.0,SVM,0.0
+symmetric,0.1,SVM,0.0023137533075598864
+symmetric,0.2,SVM,0.0065314762589410045
+symmetric,0.3,SVM,0.011014394418196094

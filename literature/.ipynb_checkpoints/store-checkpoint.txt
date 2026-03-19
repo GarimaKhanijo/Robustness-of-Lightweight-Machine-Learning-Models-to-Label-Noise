@@ -1,0 +1,11 @@
+Store:
+
+    Paper summaries
+
+    Key quotes
+
+    Citations
+
+    Research notes
+
+Keep literature separate from code.
