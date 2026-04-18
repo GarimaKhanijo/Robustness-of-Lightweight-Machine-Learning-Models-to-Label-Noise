@@ -51,32 +51,32 @@ In this work, we tested multiple machine learning models under controlled noisy 
 
 ├── data/
 
-│           ├── Data.md              # dataset links and details
+│           ├────── Data.md              # dataset links and details
 
-│           ├── (datasets included)
+│           ├────── (datasets included)
 
 │
 ├── notebooks/
 
-│           ├── clean_baseline.ipynb
+│           ├────── clean_baseline.ipynb
 
-│           ├── noise_engine.ipynb
+│           ├────── noise_engine.ipynb
 
-│           ├── cross_validation.ipynb
+│           ├────── cross_validation.ipynb
 
-│           └── analysis_plots.ipynb
+│           └────── analysis_plots.ipynb
 
 │
 ├── results/
 
-│           ├── tables/
+│           ├────── tables/
 
-│           └── plots/
+│           └────── plots/
 
 │
 ├── literature/
 
-│           └── research_paper.pdf
+│           └────── research_paper.pdf
 
 │
 ├── requirements.txt
