@@ -50,23 +50,37 @@ In this work, we tested multiple machine learning models under controlled noisy 
 ### **Project Structure**
 
 ├── data/
+
 │   ├── Data.md              # dataset links and details
+
 │   ├── (datasets included)
+
 │
 ├── notebooks/
+
 │   ├── clean_baseline.ipynb
+
 │   ├── noise_engine.ipynb
+
 │   ├── cross_validation.ipynb
+
 │   └── analysis_plots.ipynb
+
 │
 ├── results/
+
 │   ├── tables/
+
 │   └── plots/
+
 │
 ├── literature/
+
 │   └── research_paper.pdf
+
 │
 ├── requirements.txt
+
 ├── README.md
 
 
