@@ -70,7 +70,7 @@ In this work, we tested multiple machine learning models under controlled noisy 
 ├── README.md
 
 
-**### Installation**
+### **Installation**
 Make sure Python is installed (recommended: Python 3.8+)
 
 Install dependencies using:
@@ -98,7 +98,7 @@ Run `analysis_plots.ipynb`
 - Google Colab (if running online)
 - VS Code (with Python extension)
 
-**### Datasets**
+### **Datasets**
 Two datasets are used in this project:
 - Breast Cancer Wisconsin (Diagnostic)
 - Adult Income Dataset
